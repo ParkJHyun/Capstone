@@ -6,6 +6,8 @@
 
 <img width="600" src="https://user-images.githubusercontent.com/35755034/45801264-5b039580-bcee-11e8-9735-91e7219b9852.jpg">
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wW5VpyIPEhY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 ## 1. Master Arduino code (LCD)
 
 examples -> Simple_Test -> Simple_Test.ino 실행
