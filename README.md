@@ -6,6 +6,8 @@
 
 [![Alt text for your video](https://user-images.githubusercontent.com/35755034/45801264-5b039580-bcee-11e8-9735-91e7219b9852.jpg)](https://www.youtube.com/embed/wW5VpyIPEhY)
 
+(위 이미지를 클릭하시면 영상을 확인할 수 있습니다.)
+
 ## 1. Master Arduino code (LCD)
 
 examples -> Simple_Test -> Simple_Test.ino 실행
