@@ -4,9 +4,7 @@
 
 창의적 종합설계 **"삑 그리고 다음"** 스마트 카트 아두이노 코드입니다.
 
-<img width="600" src="https://user-images.githubusercontent.com/35755034/45801264-5b039580-bcee-11e8-9735-91e7219b9852.jpg">
-
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/embed/wW5VpyIPEhY)
+[![Alt text for your video](https://user-images.githubusercontent.com/35755034/45801264-5b039580-bcee-11e8-9735-91e7219b9852.jpg)](https://www.youtube.com/embed/wW5VpyIPEhY)
 
 ## 1. Master Arduino code (LCD)
 
