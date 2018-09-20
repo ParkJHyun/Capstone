@@ -39,8 +39,6 @@ loop 문에는 바코드 스캐너로 부터 얻어온 값들을 비교하여 �
           lcd.setCursor(12, 1);
           lcd.print("100");
           Serial.write(delstr, 1);
-          //   Serial.print(total);
-          // Serial.print("100");
           count_1 = 0;
         }
         else
@@ -48,8 +46,6 @@ loop 문에는 바코드 스캐너로 부터 얻어온 값들을 비교하여 �
           total += 100;
           lcd.setCursor(12, 1);
           lcd.print("100");
-          //  Serial.print(total);
-          //  Serial.print("100");
           Serial.write(twostr, 1);
         }
       } 
