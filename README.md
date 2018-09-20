@@ -6,7 +6,7 @@
 
 <img width="600" src="https://user-images.githubusercontent.com/35755034/45801264-5b039580-bcee-11e8-9735-91e7219b9852.jpg">
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wW5VpyIPEhY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/embed/wW5VpyIPEhY)
 
 ## 1. Master Arduino code (LCD)
 
